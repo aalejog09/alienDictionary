@@ -8,6 +8,8 @@ public class AlienDictionayApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(AlienDictionayApplication.class, args);
+
+
 	}
 
 }
